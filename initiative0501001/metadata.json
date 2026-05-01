@@ -1,0 +1,8 @@
+{
+  "name": "イニシアチブ",
+  "description": "Magic: The Gatheringの「地下街」ダンジョンを管理するイニシアチブ・トラッカー。",
+  "requestFramePermissions": [
+    "screen-wake-lock"
+  ],
+  "majorCapabilities": []
+}
